@@ -1,0 +1,13 @@
+# These files are ignored by git
+
+# Eclipse project files #
+#########################
+.classpath
+.project
+.settings
+.springBeans
+
+# Build & Configuration #
+#########################
+/target
+/reports
